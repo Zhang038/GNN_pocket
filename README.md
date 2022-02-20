@@ -49,7 +49,4 @@ python main.py --mode=1 --gpu=1 --test_dir="../dataset/test" --test_odir="../dat
 Structure.pqr: the prediction is at column 9, which 1.000 means pocket 1, 0.000 means not a pocket atom.
 ## Visualization
 Two examples about pocktes, the left one is example 23 from test set, the right one is example 103 from validation set.
-<center class="half">
-    <img src="https://github.com/Zhang038/GNN_pocket/blob/master/example/23_pred.png" width="400"/><img src="https://github.com/Zhang038/GNN_pocket/blob/master/example/103_pred.png" width="400"/> </center>
-
-
+![PNG]{https://github.com/Zhang038/GNN_pocket/blob/master/example/23_pred.png}![PNG]{https://github.com/Zhang038/GNN_pocket/blob/master/example/103_pred.png}
