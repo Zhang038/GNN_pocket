@@ -50,6 +50,6 @@ Structure.pqr: the prediction is at column 9, which 1.000 means pocket 1, 0.000 
 ## Visualization
 Two examples about pocktes, the left one is example 23 from test set, the right one is example 103 from validation set.
 <figure class="half">
-    <img src="https://github.com/Zhang038/GNN_pocket/blob/master/example/23_pred.png",width="200">
-    <img src="https://github.com/Zhang038/GNN_pocket/blob/master/example/103_pred.png",width="200">
+    <img src="https://github.com/Zhang038/GNN_pocket/blob/master/example/23_pred.png" width="300"/>
+    <img src="https://github.com/Zhang038/GNN_pocket/blob/master/example/103_pred.png" width="300"/>
 </figure>
