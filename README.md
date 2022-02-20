@@ -10,7 +10,7 @@
 </a>      <br>
 GNN_pocket  is a tool to predict the pocket regions in a protein structure, where the residues that are at the edges of a pocket get tagged as active.
 
-Copyright (C) 2021 Yuanyuan Zhang, Xiao Wang, Charles Christoffer, & Daisuke Kihara, and Purdue University.
+Copyright (C) 2022 Yuanyuan Zhang, Xiao Wang, Charles Christoffer, & Daisuke Kihara, and Purdue University.
 
 License: GPL v3 for academic use. (For commercial use, please contact us for different licensing.)
 
