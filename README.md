@@ -46,7 +46,7 @@ python main.py --mode=1 --gpu=1 --test_dir="../dataset/test" --test_odir="../dat
 
 ## Output file
 
-Structure.pqr: the prediction is at column 9, which 1.000 means pocket 1, 0.000 means not a pocket atom.
+id_structure.pqr: the prediction is at column 9, which 1.000 means pocket 1, 0.000 means not a pocket atom.
 ## Visualization
 Two examples about pocktes, the first one is example 23 from test set, the second one is example 103 from validation set.
 <figure class="half">
